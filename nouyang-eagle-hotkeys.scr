@@ -1,0 +1,11 @@
+# eagle Configuration Script -- persistent hotkeys
+# nancy ouyang 
+# 13 dec 2011
+Assign F1 'wire';
+Assign F2 'name';
+Assign F3 'del';
+Assign F4 'group';
+Assign F5 'Name';
+Assign F6 'label';
+Assign F7 'group';
+Assign F8 'copy';
